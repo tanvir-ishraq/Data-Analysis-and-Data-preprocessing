@@ -1,5 +1,5 @@
 # Data-Analysis-and-Data-preprocessing data visualization
 
-data visulaization and data analysis 
+data visualization and data analysis 
 
 find insights 
