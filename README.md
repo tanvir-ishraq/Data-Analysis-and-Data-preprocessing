@@ -6,4 +6,4 @@
 
 - feature selection
 
-- Outliers management
+- Outliers management and more 
