@@ -6,4 +6,4 @@
 
 - feature selection
 
-- Outliers management and more 
+- Data management, Anamoly management e.g. Outliers management and more 
